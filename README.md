@@ -20,7 +20,7 @@ I've spent 9+ years building web and mobile products across GRC, EdTech, HealthT
 | Project | What it is | Stack |
 |---|---|---|
 | **DevAtlas** · [live](https://atlas.ordinarydev.in) · [code](https://github.com/OrdinaryDev-in/claude-support-library) | A curated library of AI-coding prompts, agent skill templates and connector guides for developers | Next.js 16, Supabase, Tailwind |
-| **Billflow** · [live](https://billflow-zeta-taupe.vercel.app) · [code](https://github.com/OrdinaryDev-in/billflow) | Quotation-to-invoice platform for Indian freelancers and small agencies: client → quote → project → invoice → payment | Next.js, Supabase, Tailwind |
+| **Billflow** · *in progress* · [preview](https://billflow-zeta-taupe.vercel.app) · [code](https://github.com/OrdinaryDev-in/billflow) | Quotation-to-invoice platform for Indian freelancers and small agencies: client → quote → project → invoice → payment | Next.js, Supabase, Tailwind |
 | **Password Manager** · [code](https://github.com/Mubashir-Mohamed/password-manager) | Zero-knowledge password manager for web, desktop, browser and mobile, with client-side encryption | Turborepo, React, Electron, Expo, libsodium, Supabase |
 | **Personal Tracker** · [code](https://github.com/OrdinaryDev-in/personal-tracker) | Menu-bar desktop app for daily planning, routines and Claude Code sessions, with all data kept locally | Electron, React, TypeScript, SQLite |
 
