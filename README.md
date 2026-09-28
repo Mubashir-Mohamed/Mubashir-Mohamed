@@ -1,10 +1,8 @@
 # Hi, I'm Mubashir
 
-**Full-Stack Engineer & Technical Lead** · Kerala, India · Open to remote
+**Senior Frontend SME** · Kerala, India
 
-I've spent 9+ years building web and mobile products across GRC, EdTech, HealthTech and SaaS, most recently as a Frontend Technical Lead. On the side, I build and ship my own products under [OrdinaryDev](https://ordinarydev.in).
-
-**Open to:** full-time Senior Frontend, Full-Stack or Tech Lead roles (remote, Kerala, or relocation), and freelance projects.
+I've spent 9+ years crafting scalable frontend architectures, setting engineering standards, leading teams and delivering enterprise products across EdTech, HealthTech, GRC and SaaS. Currently Senior Frontend SME at Opal Enterprise Systems, guiding architecture, patterns and technical direction across enterprise products. On the side, I build and ship my own products under [OrdinaryDev](https://ordinarydev.in).
 
 ---
 
@@ -23,16 +21,6 @@ I've spent 9+ years building web and mobile products across GRC, EdTech, HealthT
 | **Billflow** · *in progress* · [preview](https://billflow-zeta-taupe.vercel.app) · [code](https://github.com/OrdinaryDev-in/billflow) | Quotation-to-invoice platform for Indian freelancers and small agencies: client → quote → project → invoice → payment | Next.js, Supabase, Tailwind |
 | **Password Manager** · [code](https://github.com/Mubashir-Mohamed/password-manager) | Zero-knowledge password manager for web, desktop, browser and mobile, with client-side encryption | Turborepo, React, Electron, Expo, libsodium, Supabase |
 | **Personal Tracker** · [code](https://github.com/OrdinaryDev-in/personal-tracker) | Menu-bar desktop app for daily planning, routines and Claude Code sessions, with all data kept locally | Electron, React, TypeScript, SQLite |
-
-## Work with me
-
-**Freelance.** I help startups and small teams with:
-
-- **SaaS MVPs**: from idea to a deployed product on Next.js / Angular with Node or Supabase
-- **Frontend architecture**: scaling Angular and React codebases with NX monorepos and micro-frontends
-- **Cross-platform apps**: Flutter apps for iOS and Android
-
-**Hiring?** I bring technical leadership and hands-on delivery across frontend, backend and mobile.
 
 ## Get in touch
 
